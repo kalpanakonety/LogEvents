@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/Downloads/hsqldb-2.4.1/hsqldb-2.4.1/hsqldb/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/Downloads/hsqldb-2.4.1/hsqldb-2.4.1/hsqldb/lib/sqltool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/GradleTest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/jackson-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paolo/git/GradleProject/GradleTest/build/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
